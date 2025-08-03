@@ -13,7 +13,11 @@ The page includes sections like **Hero**, **Features**, **Testimonials**, **Pric
 
 ## 📸 Preview Screenshot
 
-![Landing Screenshot](images/clario.png)
+![Landing Screenshot](https://i.postimg.cc/Jz7hPy8D/image.png)
+
+![Landing Screenshot](https://i.postimg.cc/hjm4fTLw/image.png)
+
+![Landing Screenshot](https://i.postimg.cc/RhQMTmbL/image.png)
 
 > 🖼️ A clean and professional landing page for **Clario** — the ultimate task manager.
 
